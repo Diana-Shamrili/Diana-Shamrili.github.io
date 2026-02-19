@@ -160,6 +160,14 @@ img {
 .project__item:hover .project__label {
   color: #000;
 }
+.project__label-item{
+    background-color: #FCFCFD1F;
+    padding: 10px 15px;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FCFCFD33;
+    border-radius: 999px 999px 999px 999px;
+}
 @media (max-width: 767px) {
   .project__label {
     min-height: 90px;
