@@ -168,6 +168,10 @@ img {
     border-color: #FCFCFD33;
     border-radius: 999px 999px 999px 999px;
 }
+.project__item:hover .project__label-item {
+    background-color: #fefbfbf7;
+        border-color: #7c7c7cab;
+  }
 @media (max-width: 767px) {
   .project__label {
     min-height: 90px;
