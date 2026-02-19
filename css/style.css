@@ -167,7 +167,7 @@ img {
     border-width: 1px 1px 1px 1px;
     border-color: #FCFCFD33;
     border-radius: 999px 999px 999px 999px;
-    transition: transform 0.5s cubic-bezier(0.77, 0.125, 0.265, 1.04), opacity 0.5s cubic-bezier(0.77, 0.125, 0.265, 1.04);
+    transition: border-color 0.5s ease;
 }
 .project__item:hover .project__label-item {
     background-color: #fefbfbf7;
