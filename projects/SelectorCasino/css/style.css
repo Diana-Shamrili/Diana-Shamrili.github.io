@@ -90,6 +90,7 @@ body {
      line-height: 1.5;
      background: var(--bg);
      color: var(--text);
+     padding-top: 60px;
 }
 .btn {
      display: inline-flex;
@@ -127,7 +128,7 @@ body {
 
 /*mobile*/
 .hero {
-     margin: 100px 0 40px;
+     margin: 40px 0 50px;
 }
 .advantages,
 .games,
@@ -686,7 +687,7 @@ h3 {
           row-gap: 40px;
      }
      .hero {
-          margin: 120px 0 80px;
+          margin: 60px 0 80px;
      }
      .advantages,
      .games,
